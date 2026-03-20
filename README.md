@@ -38,7 +38,6 @@ Many existing platforms are not designed for seniors. They often include small t
 
 ```bash
 git clone https://github.com/Shanjhitha/neighborcircle_rebuild_kiro
-cd neighborcircle
 npm install
 npm run dev
 ```
